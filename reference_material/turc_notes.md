@@ -46,9 +46,9 @@ tomography scanner, point-of-care laboratory, and neurological expertise).
 
 RESULTS Compared with usual care, MSU use was associated with excellent outcome (adjusted odds ratio [OR], 1.64; 95% CI, 1.27-2.13; P < .001; 5 studies; n = 3228), reduced disability over the full range of the mRS (adjusted common OR, 1.39; 95% CI, 1.14-1.70; P = .001; 3 studies; n = 1563), good outcome (mRS score of 0 to 2: crude OR, 1.25; 95% CI, 1.09-1.44; P = .001; 6 studies; n = 3266), shorter onset-to-intravenous thrombolysis (IVT) times (median reduction, 31 minutes [95% CI, 23-39]; P < .001; 13 studies; n = 3322), delivery of IVT (crude OR, 1.83; 95% CI, 1.58-2.12; P < .001; 7 studies; n = 4790), and IVT within 60 minutes of symptom onset (crude OR, 7.71; 95% CI, 4.17-14.25; P < .001; 8 studies; n = 3351). MSU use was not associated with an increased risk of all-cause mortality at 7 days or 90 days or with higher proportions of symptomatic intracranial hemorrhage after IVT.
 
-![](turc_results_1)
+![](turc_results_1.png)
 
 Results on time to treatment:
 
-![](turc_results_2)
+![](turc_results_2.png)
 
