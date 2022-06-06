@@ -2,6 +2,10 @@
 
 Turc G, Hadziahmetovic M, Walter S, Churilov L, Larsen K, Grotta JC, Yamal J-M, Bowry R, Katsanos AH, Zhao H, et al. Comparison of Mobile Stroke Unit With Usual Care for Acute Ischemic Stroke Management: A Systematic Review and Meta-analysis. JAMA Neurology. 2022 ;Available from: https://doi.org/10.1001/jamaneurol.2021.5321
 
+## What is a Mobile Stroke Unit (MSU)?
+
+MSU (mobile stroke unit): a specialized ambulance equipped with computed tomography scanner, point-of-care laboratory, and neurological expertise).
+
 ## Key Points
 
 *Question*: In patients with acute ischemic stroke, does mobile stroke unit (MSU) use lead to better functional outcomes than
@@ -36,11 +40,6 @@ Safety:
 * All-cause mortality at 7 and 90 days
 * Symptomatic intracranial hemorrhage (according to the definition of each study) among IVT-treated patients
 * Proportion of IVT-treated patients ultimately diagnosed as stroke mimics.
-
-## What is a MSU?
-
-MSU (mobile stroke unit): specialized ambulance equipped with computed
-tomography scanner, point-of-care laboratory, and neurological expertise).
 
 ## Key results
 
