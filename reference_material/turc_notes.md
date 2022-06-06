@@ -8,12 +8,9 @@ MSU (mobile stroke unit): a specialized ambulance equipped with computed tomogra
 
 ## Key Points
 
-*Question*: In patients with acute ischemic stroke, does mobile stroke unit (MSU) use lead to better functional outcomes than
-usual care?
+*Question*: In patients with acute ischemic stroke, does mobile stroke unit (MSU) use lead to better functional outcomes than usual care?
 
-*Findings*: In this systematic review and meta-analysis including 14 articles, MSU use was significantly associated with an
-approximately 65% increase in the odds of excellent outcome at 90 days after adjustment for potential confounders, a higher
-proportion of intravenous thrombolysis, and a reduction of half an hour in onset-to-thrombolysis time, without safety concerns.
+*Findings*: In this systematic review and meta-analysis including 14 articles, MSU use was significantly associated with an approximately 65% increase in the odds of excellent outcome at 90 days after adjustment for potential confounders, a higher proportion of intravenous thrombolysis, and a reduction of half an hour in onset-to-thrombolysis time, without safety concerns.
 
 *Meanings*: These results provide evidence that MSU use improves functional outcome compared with usual care and may help guideline writing committees and decision makers to organize prehospital care.
 
