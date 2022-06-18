@@ -36,5 +36,13 @@
 
 ## Key research questions
 
+1. Compared with current practice, or with emerging pre-hospital stroke type diagnostics, where in England and Wales are Mobile Stroke Units likely to lead to a significant reduction in disability outcomes due to faster reperfusion (either from on-sceene thrombolysis, or improved direction of suitable patients to units providing mechanical thrombectomy)?
+
+2. What are the likely consequences to patients, ambulance services, and acute stroke units
+on implementation of mobile stroke units? How do these effects break down by stroke type (including mimics).
+
+3. What are the costs of implementing Mobile Stroke Units. Where (if anywhere) is implementation of Mobile Stroke Units likely to be cost-effective.
+
+4. How will Mobile Stroke Units likely effect equity of access to (and therefore outcome from) emergency stroke care?
 
 
